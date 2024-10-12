@@ -52,3 +52,5 @@ The **Hospital Management System** aims to streamline and automate hospital oper
    
 5. **User Interface**: 
    - Command-line interface for basic interactions, with the potential for expansion to a web-based or graphical user interface.
+
+This system efficiently coordinates critical hospital operations, reducing manual workload and minimizing errors, ultimately improving patient care.
